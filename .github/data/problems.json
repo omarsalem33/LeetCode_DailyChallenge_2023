@@ -4757,6 +4757,10 @@
         {
             "day": "04",
             "title": "Valid Parenthesis String"
+        },
+        {
+            "day": "05",
+            "title": "Score of Parentheses"
         }
     ],
     "11- November": [
