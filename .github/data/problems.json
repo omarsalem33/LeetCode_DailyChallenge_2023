@@ -4761,6 +4761,10 @@
         {
             "day": "05",
             "title": "Score of Parentheses"
+        },
+        {
+            "day": "06",
+            "title": "Minimum Add to Make Parentheses Valid"
         }
     ],
     "11- November": [
