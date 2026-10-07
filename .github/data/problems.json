@@ -4765,6 +4765,10 @@
         {
             "day": "06",
             "title": "Minimum Add to Make Parentheses Valid"
+        },
+        {
+            "day": "07",
+            "title": "Remove Invalid Parentheses"
         }
     ],
     "11- November": [
