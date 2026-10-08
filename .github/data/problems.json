@@ -4769,6 +4769,10 @@
         {
             "day": "07",
             "title": "Remove Invalid Parentheses"
+        },
+        {
+            "day": "08",
+            "title": "Remove Outermost Parentheses"
         }
     ],
     "11- November": [
