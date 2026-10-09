@@ -4773,6 +4773,10 @@
         {
             "day": "08",
             "title": "Remove Outermost Parentheses"
+        },
+        {
+            "day": "09",
+            "title": "Minimum Insertions to Balance a Parentheses String"
         }
     ],
     "11- November": [
