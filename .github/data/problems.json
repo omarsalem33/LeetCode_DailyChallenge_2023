@@ -4777,6 +4777,10 @@
         {
             "day": "09",
             "title": "Minimum Insertions to Balance a Parentheses String"
+        },
+        {
+            "day": "10",
+            "title": "Minimum Sum of Squared Difference"
         }
     ],
     "11- November": [
