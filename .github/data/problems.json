@@ -4797,6 +4797,10 @@
         {
             "day": "14",
             "title": "Maximize Sum of Squares of Digits"
+        },
+        {
+            "day": "15",
+            "title": "Subarrays Distinct Element Sum of Squares I"
         }
     ],
     "11- November": [
