@@ -4805,6 +4805,10 @@
         {
             "day": "16",
             "title": "Subarrays Distinct Element Sum of Squares II"
+        },
+        {
+            "day": "17",
+            "title": "Minimum Swaps to Sort by Digit Sum"
         }
     ],
     "11- November": [
