@@ -4809,6 +4809,10 @@
         {
             "day": "17",
             "title": "Minimum Swaps to Sort by Digit Sum"
+        },
+        {
+            "day": "18",
+            "title": "Number of Ways to Reorder Array to Get Same BST"
         }
     ],
     "11- November": [
