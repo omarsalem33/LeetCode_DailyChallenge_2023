@@ -4813,6 +4813,10 @@
         {
             "day": "18",
             "title": "Number of Ways to Reorder Array to Get Same BST"
+        },
+        {
+            "day": "19",
+            "title": "Find Target Indices After Sorting Array"
         }
     ],
     "11- November": [
