@@ -4821,6 +4821,10 @@
         {
             "day": "20",
             "title": "Sum of Sortable Integers"
+        },
+        {
+            "day": "21",
+            "title": "Minimum Operations to Sort a String"
         }
     ],
     "11- November": [
