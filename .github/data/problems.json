@@ -4829,6 +4829,10 @@
         {
             "day": "22",
             "title": "Minimum Operations to Sort a Permutation"
+        },
+        {
+            "day": "23",
+            "title": "Maximum K to Sort a Permutation"
         }
     ],
     "11- November": [
