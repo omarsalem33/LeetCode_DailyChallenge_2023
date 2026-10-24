@@ -4833,6 +4833,10 @@
         {
             "day": "23",
             "title": "Maximum K to Sort a Permutation"
+        },
+        {
+            "day": "24",
+            "title": "Count Days Spent Together"
         }
     ],
     "11- November": [
