@@ -4837,6 +4837,10 @@
         {
             "day": "24",
             "title": "Count Days Spent Together"
+        },
+        {
+            "day": "25",
+            "title": "Number of Closed Islands"
         }
     ],
     "11- November": [
