@@ -4841,6 +4841,10 @@
         {
             "day": "25",
             "title": "Number of Closed Islands"
+        },
+        {
+            "day": "26",
+            "title": "Count Islands With Total Value Divisible by K"
         }
     ],
     "11- November": [
