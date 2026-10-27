@@ -4845,6 +4845,10 @@
         {
             "day": "26",
             "title": "Count Islands With Total Value Divisible by K"
+        },
+        {
+            "day": "27",
+            "title": "Create Grid With Exactly One Path"
         }
     ],
     "11- November": [
