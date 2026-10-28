@@ -4849,6 +4849,10 @@
         {
             "day": "27",
             "title": "Create Grid With Exactly One Path"
+        },
+        {
+            "day": "28",
+            "title": "Minimum XOR Path in a Grid"
         }
     ],
     "11- November": [
