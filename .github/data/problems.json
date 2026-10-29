@@ -4853,6 +4853,10 @@
         {
             "day": "28",
             "title": "Minimum XOR Path in a Grid"
+        },
+        {
+            "day": "29",
+            "title": "Palindromic Path Queries in a Tree"
         }
     ],
     "11- November": [
