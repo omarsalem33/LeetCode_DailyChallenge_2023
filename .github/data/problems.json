@@ -4857,6 +4857,10 @@
         {
             "day": "29",
             "title": "Palindromic Path Queries in a Tree"
+        },
+        {
+            "day": "30",
+            "title": "Shortest Path With At Most K Consecutive Identical Characters"
         }
     ],
     "11- November": [
