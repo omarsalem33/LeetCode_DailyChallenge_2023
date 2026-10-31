@@ -4861,6 +4861,10 @@
         {
             "day": "30",
             "title": "Shortest Path With At Most K Consecutive Identical Characters"
+        },
+        {
+            "day": "31",
+            "title": "Twisted Mirror Path Count"
         }
     ],
     "11- November": [
