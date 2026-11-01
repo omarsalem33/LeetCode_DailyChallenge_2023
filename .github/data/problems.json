@@ -5227,6 +5227,10 @@
         {
             "day": "30",
             "title": "Make Sum Divisible by P"
+        },
+        {
+            "day": "01",
+            "title": "Minimum Moves to Equal Array Elements"
         }
     ],
     "12- December": [
