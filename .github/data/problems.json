@@ -5239,6 +5239,10 @@
         {
             "day": "03",
             "title": "Minimum Moves to Equal Array Elements III"
+        },
+        {
+            "day": "04",
+            "title": "Minimum Operations to Make Elements Within K Subarrays Equal"
         }
     ],
     "12- December": [
