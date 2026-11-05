@@ -5243,6 +5243,10 @@
         {
             "day": "04",
             "title": "Minimum Operations to Make Elements Within K Subarrays Equal"
+        },
+        {
+            "day": "05",
+            "title": "Find the Distance Value Between Two Arrays"
         }
     ],
     "12- December": [
