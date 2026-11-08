@@ -5255,6 +5255,10 @@
         {
             "day": "07",
             "title": "Process Tasks Using Servers"
+        },
+        {
+            "day": "08",
+            "title": "Count Servers that Communicate"
         }
     ],
     "12- December": [
