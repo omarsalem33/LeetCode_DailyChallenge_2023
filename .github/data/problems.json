@@ -5271,6 +5271,10 @@
         {
             "day": "11",
             "title": "Minimum Cost to Acquire Required Items"
+        },
+        {
+            "day": "12",
+            "title": "Longest Strictly Increasing or Strictly Decreasing Subarray"
         }
     ],
     "12- December": [
