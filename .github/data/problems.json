@@ -5275,6 +5275,10 @@
         {
             "day": "12",
             "title": "Longest Strictly Increasing or Strictly Decreasing Subarray"
+        },
+        {
+            "day": "13",
+            "title": "Count Non-Decreasing Subarrays After K Operations"
         }
     ],
     "12- December": [
