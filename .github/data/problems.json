@@ -5291,6 +5291,10 @@
         {
             "day": "16",
             "title": "Calculate Digit Sum of a String"
+        },
+        {
+            "day": "17",
+            "title": "Minimum Changes to Make K Semi-palindromes"
         }
     ],
     "12- December": [
