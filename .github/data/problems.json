@@ -5303,6 +5303,10 @@
         {
             "day": "19",
             "title": "Minimum Score by Changing Two Elements"
+        },
+        {
+            "day": "20",
+            "title": "Maximize Consecutive Elements in an Array After Modification"
         }
     ],
     "12- December": [
