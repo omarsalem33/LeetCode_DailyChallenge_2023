@@ -5307,6 +5307,10 @@
         {
             "day": "20",
             "title": "Maximize Consecutive Elements in an Array After Modification"
+        },
+        {
+            "day": "21",
+            "title": "Find Subtree Sizes After Changes"
         }
     ],
     "12- December": [
