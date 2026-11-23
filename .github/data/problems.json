@@ -5315,6 +5315,10 @@
         {
             "day": "22",
             "title": "Check if All A's Appears Before All B's"
+        },
+        {
+            "day": "23",
+            "title": "Product of the Last K Numbers"
         }
     ],
     "12- December": [
