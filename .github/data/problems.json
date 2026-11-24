@@ -5319,6 +5319,10 @@
         {
             "day": "23",
             "title": "Product of the Last K Numbers"
+        },
+        {
+            "day": "24",
+            "title": "Maximum Subarray With Equal Products"
         }
     ],
     "12- December": [
