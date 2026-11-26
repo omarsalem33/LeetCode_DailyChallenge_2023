@@ -5327,6 +5327,10 @@
         {
             "day": "25",
             "title": "Smallest Unique Subarray"
+        },
+        {
+            "day": "26",
+            "title": "Stone Removal Game"
         }
     ],
     "12- December": [
